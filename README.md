@@ -1,4 +1,7 @@
 # IO17 - Large-scale bioinformatics for Immuno-Oncology
+Instituto Gulbenkian de Ciência, Oeiras, Portugal
+19-22 September 2017
+http://gtpb.igc.gulbenkian.pt/bicourses/IO17
 
 ## Course description
 
