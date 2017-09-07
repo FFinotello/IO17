@@ -4,7 +4,6 @@
 | ------------- | ------------- |
 | Sept. 19  | |
 | 16:00-18:30  | Optional extra session to check on familiarity with computer usage operation in Linux and R |
-
 | Sept. 20  | |
 | 09:30-11:30  | TBA |
 | 11:00-11:30  | Coffee Break |
