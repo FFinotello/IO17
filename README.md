@@ -9,3 +9,11 @@ The immuno-oncology approach leverages on the unique capability of the immune sy
 * Deregulated signalling pathways in cancer and immune cells
 
 A fully practical, hands-on approach will ensure that the newly acquire skills can be used with a great deal of autonomy.
+
+## Target Audience
+
+Motivated researchers, clinicians, and students who want to gain an understanding on how bioinformatics tools and simple (logic-based) modelling approaches can be used to investigate the tumour-immune cell interface and its underlying signalling pathways from high-throughput data.
+
+## Course Pre-requisites
+
+Programming/scripting skills are helpful, but not mandatory. An understanding of elementary operations with R will be required. Elementary command line instructions in UNIX will be used, so minimal familiarity with navigation in directory trees, copying files and folders, etc. will be needed. 
