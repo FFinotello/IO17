@@ -5,7 +5,7 @@
   * Optional extra session to check on familiarity with minimal computer usage operation in Linux and R
 
 ## September 20<sup>th</sup>, 2017
-* **09:30-11:30**: TBA
+* **09:30-11:30**: 
   * TBA
   * TBA
 * **11:00-11:30**: *Coffee Break*
@@ -16,7 +16,7 @@
 * **16:30-18:00**: TBA
 
 ## September 21<sup>st</sup>, 2017
-* **09:30-11:30**: TBA
+* **09:30-11:30**: 
   * TBA
   * TBA
 * **11:00-11:30**: *Coffee Break*
@@ -28,7 +28,7 @@
 
 
 ## September 22<sup>nd</sup>, 2017
-* **09:30-11:30**: TBA
+* **09:30-11:30**: 
   * TBA
   * TBA
 * **11:00-11:30**: *Coffee Break*
