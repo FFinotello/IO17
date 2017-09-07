@@ -5,6 +5,8 @@
 
 ## September 20th, 2017
 * **09:30-11:30**: TBA
+  * TBA
+  * TBA
 * **11:00-11:30**: Coffee Break
 * **11:30-12:30**: TBA
 * **12:30-14:00**: Lunch Break
