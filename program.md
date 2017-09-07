@@ -1,16 +1,11 @@
 # Program
 
-## September 19th, 2017
-
 | Time   | Topic |
 | ------------- | ------------- |
+| Sept. 19  | |
 | 16:00-18:30  | Optional extra session to check on familiarity with computer usage operation in Linux and R |
 
-## September 20th, 2017
-
-| Time   | Topic |
-| ------------- | ------------- |
-| September 20th  |
+| Sept. 20  | |
 | 09:30-11:30  | TBA |
 | 11:00-11:30  | Coffee Break |
 | 11:30-12:30  | TBA |
