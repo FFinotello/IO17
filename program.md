@@ -5,7 +5,8 @@
 | **Sept. 19**  |  Day 0 |
 | 16:00-18:30  | Optional extra session to check on familiarity with computer usage operation in Linux and R |
 | **Sept. 20**  | Day 1 |
-| 09:30-11:30  | TBA |
+| 09:30-11:30  | TBA 
+TBA|
 | 11:00-11:30  | Coffee Break |
 | 11:30-12:30  | TBA |
 | 12:30-14:00  | Lunch Break |
