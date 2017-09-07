@@ -3,7 +3,7 @@
 ## September 19th, 2017
 * **16:00-18:30**: Optional extra session to check on familiarity with minimal computer usage operation in Linux and R
 
-## September 20th, 2017
+## September 20<sup>th</sup>, 2017
 * **09:30-11:30**: TBA
   * TBA
   * TBA
