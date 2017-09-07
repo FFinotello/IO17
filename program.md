@@ -10,7 +10,7 @@
 
 | Time   | Topic |
 | ------------- | ------------- |
-| September 20th | |
+| September 20th  |
 | 09:30-11:30  | TBA |
 | 11:00-11:30  | Coffee Break |
 | 11:30-12:30  | TBA |
