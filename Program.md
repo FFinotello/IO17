@@ -54,7 +54,7 @@
 * Morning wrap-up
 * Solution: exercise 4 and questions
   * *Patient_1_candidate_neoantigens.txt*
-* Discussion about antigen prioritization
+* Discussion about neoantigen prioritization
 * The immune system
 * Computational quantification of tumor-infiltrating immune cells
 * Exercise 1: SVR deconvolution of PBMC data
