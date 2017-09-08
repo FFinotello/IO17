@@ -102,13 +102,14 @@ Solution: exercise 1:
   * *Decon_DeconRNASeq_PBMC_noBnaive_cell_fractions.txt*
   * *Decon_DeconRNASeq_PBMC_noBnaive_cell_fractions.pdf*
 * Solution: deconvolution questions
+* Discussion about deconvolution challenges
 * Exercises 6, 7, or 8 (at your choice)
   * *Mixture_ShenOrr_WholeBlood.txt*
   * *CellFractions_ShenOrr_WholeBlood.txt*
   * *TCGA_CRC_TPM.txt*
   * *TCGA_CRC_MSI_status.txt*
 * Wrap-up and questions
-* Discussion about deconvolution challenges 
+ 
 
 ## September 22<sup>nd</sup>, 2017
 
