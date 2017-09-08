@@ -11,51 +11,42 @@
 * Prediction of tumor neoantigens
 * HLA typing
 * Exercise 1 and questions: HLA typing
-  * Patient_1_RNAseq.fastq
+  * *Patient_1_RNAseq.fastq*
 
 **11:00-11:30**
 *Coffee Break*
 
 **11:30-12:30**
-* TBA
+* Solution: Exercise 1 and questions
+  * *Patient_1_HLA_typing.txt*
+  * *Patient_1_HLA_typing_coverage_plot.pdf*
+* Variant annotation
+* Exercise 2 and questions: Variant annotation
 
 **12:30-14:00**
 *Lunch Break*
 
 **14:00-16:00**
-* TBA
+* Solution: Exercise 2 and questions
+  * *Patient_1_VEP_37_mutations.txt*
+  * *Patient_1_VEP_37_proteins.txt*
+* Peptide-MHC binding prediction
+* Exercise 3 and questions: peptide-MHC binding prediction
 
 **16:00-16:30**
 *Tea Break*
 
 **16:30-18:00**
-* TBA
+* Solution: Exercise 3 and questions
+  * *Patient_1_NetMHCpan_binders.txt*
+* Wrap-up and questions
+* Exercise 4: neoantigen prioritization
+* Brainstorming: strategies for neoantigen prioritization
+
+
 
 ## September 21<sup>st</sup>, 2017
-* **09:30-11:30** 
-  * TBA
-  * TBA
-* **11:00-11:30**: *Coffee Break*
-* **11:30-12:30**
-  * TBA
-* **12:30-14:00**: *Lunch Break*
-* **14:00-16:00**
-  * TBA
-* **16:00-16:30**: *Tea Break*
-* **16:30-18:00**
-  * TBA
+
 
 
 ## September 22<sup>nd</sup>, 2017
-* **09:30-11:30** 
-  * TBA
-  * TBA
-* **11:00-11:30**: *Coffee Break*
-* **11:30-12:30**
-  * TBA
-* **12:30-14:00**: *Lunch Break*
-* **14:00-16:00**
-  * TBA
-* **16:00-16:30**: *Tea Break*
-* **16:30-18:00**
-  * TBA
