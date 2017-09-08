@@ -1,4 +1,4 @@
-# Program
+# Detailed program
 
 ## September 19<sup>th</sup>, 2017
 * **16:00-18:30**
@@ -6,8 +6,12 @@
 
 ## September 20<sup>th</sup>, 2017
 * **09:30-11:30** 
-  * TBA
-  * TBA
+  * Introduction of participants and expectations
+  * Bioinformatics for cancer immunology and immuno oncology (+ 1 slide Fede)
+  * Prediction of tumor neoantigens
+  * HLA typing
+  * Exercise 1 and questions: HLA typing
+
 * **11:00-11:30**: *Coffee Break*
 * **11:30-12:30**
   * TBA
