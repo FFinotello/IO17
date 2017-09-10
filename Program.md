@@ -55,7 +55,7 @@
 * Solution: exercise 4 and questions
   * *Patient_1_candidate_neoantigens.txt*
 * Discussion about neoantigen prioritization
-* The immune system
+* Tumor-infiltrating immune cells
 * Computational quantification of tumor-infiltrating immune cells
 * Exercise 1: SVR deconvolution of PBMC data
  * *Mixture_Newman_PBMC.txt*
