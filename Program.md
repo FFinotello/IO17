@@ -103,9 +103,7 @@ Solution: exercise 1:
   * *Decon_DeconRNASeq_PBMC_noBnaive_cell_fractions.pdf*
 * Solution: deconvolution questions
 * Discussion about deconvolution challenges
-* Exercises 6, 7, or 8 (at your choice)
-  * *Mixture_ShenOrr_WholeBlood.txt*
-  * *CellFractions_ShenOrr_WholeBlood.txt*
+* Exercises 6 and 7 (at your choice)
   * *TCGA_CRC_TPM.txt*
   * *TCGA_CRC_MSI_status.txt*
 * Wrap-up and questions
@@ -116,12 +114,6 @@ Solution: exercise 1:
 **09:30-11:30** 
 * Morning wrap-up
 * Solution: exercise 6
-  * *Decon_6_Assess_Deconvolution_SVR_Blood.R*
-  * *Decon_SVR_Blood_cell_fractions.txt*
-  * *Decon_SVR_Blood_cell_fractions.pdf*
-  * *Decon_SVR_Blood_mRNA_cell_fractions.txt*
-  * *Decon_SVR_Blood_mRNA_cell_fractions.pdf*
-* Solution: exercise 7
   * *Decon_7_Deconvolution_DeconRNASeq_CRC.R*
   * *Decon_DeconRNASeq_CRC_cell_fractions.txt*
   * *Decon_DeconRNASeq_CRC_CD8_fractions_vs_MSI_status.pdf*
