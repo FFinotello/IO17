@@ -138,13 +138,12 @@ Solution: exercise 1](#)
 * Other logic formalism
 * Excercise 3: Comparing different logic formalisms with CellNOptR
   * *Ex3_tutorialCellNOptR.R*
-  * [*ToyModelPB.sif*](Input_data/ToyModelPB.sif)
-  * [*ToyModelPB.csv*](Input_data/ToyModelPB.csv)
 * Excercise 4: Modeling context specific pathways with CNORode
   * *Ex4_tutorialCNORode.R*
   * *PKN.sif*
   * *data_group1.csv*
   * *data_group2.csv*
+ 
 
 **16:00-16:30**
 *Tea Break*
@@ -152,5 +151,4 @@ Solution: exercise 1](#)
 **16:30-18:00**
 * TBA...
 * Final wrap-up
-
 
