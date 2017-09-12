@@ -8,12 +8,12 @@
 
 ## September 20<sup>th</sup>, 2017
 **09:30-11:30** 
-* Introduction of participants and expectations
+* [Introduction of participants and expectations](#)
 * Bioinformatics for cancer immunology and immuno oncology
 * Prediction of tumor neoantigens
 * HLA typing
 * Exercise 1 and questions: HLA typing
-  * *Patient_1_RNAseq.fastq*
+  * [*Patient_1_RNAseq.fastq*](Input_data/Patient_1_RNAseq.fastq)
 
 **11:00-11:30**
 *Coffee Break*
