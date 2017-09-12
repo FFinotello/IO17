@@ -135,7 +135,7 @@ Solution: exercise 1
 *Lunch Break*
 
 **14:00-16:00**
-* Other logic formalism
+* Other logic formalisms
 * Excercise 3: Comparing different logic formalisms with CellNOptR
   * *Ex3_tutorialCellNOptR.R*
   * [*ToyModelPB.sif*](Input_data/ToyModelPB.sif)
