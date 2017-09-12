@@ -1,4 +1,4 @@
-MSI_status
+Patient	MSI_status
 TCGA.F4.6854	MSS
 TCGA.AA.3561	MSS
 TCGA.DM.A28F	MSS
