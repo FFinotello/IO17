@@ -138,6 +138,8 @@ Solution: exercise 1
 * Other logic formalism
 * Excercise 3: Comparing different logic formalisms with CellNOptR
   * *Ex3_tutorialCellNOptR.R*
+  * [*ToyModelPB.sif*](Input_data/ToyModelPB.sif)
+  * [*ToyModelPB.csv*](Input_data/ToyModelPB.csv)
 * Excercise 4: Modeling context specific pathways with CNORode
   * *Ex4_tutorialCNORode.R*
   * *PKN.sif*
