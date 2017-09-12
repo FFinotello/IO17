@@ -12,7 +12,7 @@
 * [Bioinformatics for Cancer Immunology and Immuno-Oncology](Material/1_1_Intro.pptx)
 * [Prediction of tumor neoantigens](Material/1_2_Prediction_of_tumor_neoantigens.pptx)
 * [HLA typing](Material/1_3_HLA_typing.pptx)
-* [Exercise 1 and questions: HLA typing](Material/Deconvolution_ex_1.pptx)
+* [Exercise 1 and questions: HLA typing](Material/Neoantigen_ex_1.pptx)
   * [*Patient_1_RNAseq.fastq*](Input_data/Patient_1_RNAseq.fastq)
 
 **11:00-11:30**
@@ -76,7 +76,7 @@
 **14:00-16:00**
 Solution: exercise 1
  * [*Decon_1_Deconvolution_SVM_PBMC.R*](Material/Decon_1_Deconvolution_SVM_PBMC.R)
- * [*Decon_SVR_PBMC_cell_fractions.txt*](Material/Decon_SVR_PBMC_cell_fractions.R)
+ * [*Decon_SVR_PBMC_cell_fractions.txt*](Material/Decon_SVR_PBMC_cell_fractions.txt)
 * Solution: exercise 2
   * [*Decon_2_RMSE.R*](Material/Decon_2_RMSE.R)
 * Solution: exercise 3
@@ -105,7 +105,7 @@ Solution: exercise 1
 * [Discussion about deconvolution challenges](Material/Discussion_deconvolution_challenges.pptx)
 * [Exercises 6 and 7 (at your choice)](Material/Deconvolution_ex_6-7.pptx)
   * [*TCGA_CRC_TPM.zip*](Input_data/TCGA_CRC_TPM.zip)
-  * [*TCGA_CRC_MSI_status.zip*](Input_data/TCGA_CRC_MSI_status.zip)
+  * [*TCGA_CRC_MSI_status.txt*](Input_data/TCGA_CRC_MSI_status.txt)
 * Wrap-up and questions
  
 
@@ -114,7 +114,7 @@ Solution: exercise 1
 **09:30-11:30** 
 * Morning wrap-up
 * [Solution: exercise 6](Material/Deconvolution_ex_6_sol.pptx)
-  * [*Decon_7_Deconvolution_DeconRNASeq_CRC.R*](Material/Decon_7_Deconvolution_DeconRNASeq_CRC.R)
+  * [*Decon_6_Deconvolution_DeconRNASeq_CRC.R*](Material/Decon_6_Deconvolution_DeconRNASeq_CRC.R)
   * [*Decon_DeconRNASeq_CRC_cell_fractions.txt*](Material/Decon_DeconRNASeq_CRC_cell_fractions.txt)
   * [*Decon_DeconRNASeq_CRC_CD8_fractions_vs_MSI_status.pdf*](Material/Decon_DeconRNASeq_CRC_CD8_fractions_vs_MSI_status.pdf)
 * Signaling pathways in cancer and immune cells
