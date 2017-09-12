@@ -74,7 +74,7 @@
 *Lunch Break*
 
 **14:00-16:00**
-Solution: exercise 1](#)
+Solution: exercise 1
  * [*Decon_1_Deconvolution_SVM_PBMC.R*](Material/Decon_1_Deconvolution_SVM_PBMC.R)
  * [*Decon_SVR_PBMC_cell_fractions.txt*](Material/Decon_SVR_PBMC_cell_fractions.R)
 * Solution: exercise 2
