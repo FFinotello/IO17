@@ -119,15 +119,15 @@ Solution: exercise 1:
   * *Decon_DeconRNASeq_CRC_CD8_fractions_vs_MSI_status.pdf*
 * Signaling pathways in cancer and immune cells
 * Exercise 1: pathways analysis with Omnipath
- * *Ex1_Omnipath.pdf*
- * *Ex1_Omnipath.R*
+  * *Ex1_Omnipath.pdf*
+  * *Ex1_Omnipath.R*
 
 **11:00-11:30**
 *Coffee Break*
 
 **11:30-12:30**
 * Solution: Excercise 1
- * *Ex1_Omnipath_solution.R*
+  * *Ex1_Omnipath_solution.R*
 * Modeling framework and Boolean logic models
 * Excercise 2: Modeling signaling pathways with Cytocopter (Cytoscape plugin)
 
@@ -139,10 +139,10 @@ Solution: exercise 1:
 * Excercise 3: Comparing different logic formalisms with CellNOptR
  * *Ex3_tutorialCellNOptR.R*
 * Excercise 4: Modeling context specific pathways with CNORode
- * *Ex4_tutorialCNORode.R*
- * *PKN.sif*
- * *data_group1.csv*
- * *data_group2.csv*
+  * *Ex4_tutorialCNORode.R*
+  * *PKN.sif*
+  * *data_group1.csv*
+  * *data_group2.csv*
  
 
 **16:00-16:30**
