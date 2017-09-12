@@ -24,7 +24,7 @@
   * *Patient_1_HLA_typing_coverage_plot.pdf*
 * Variant annotation
 * Exercise 2 and questions: variant annotation
-  * *Patient_1_mutations.vcf*
+  * [*Patient_1_mutations.vcf*](Input_data/Patient_1_mutations.vcf)
 
 **12:30-14:00**
 *Lunch Break*
@@ -44,7 +44,7 @@
   * *Patient_1_NetMHCpan_binders.txt*
 * Wrap-up and questions
 * Exercise 4: neoantigen prioritization
-  * *Patient_1_normalized_expression.txt*
+  * [*Patient_1_normalized_expression.txt*](Input_data/Patient_1_normalized_expression.txt)
 * Brainstorming: strategies for neoantigen prioritization
 
 
@@ -58,8 +58,8 @@
 * Tumor-infiltrating immune cells
 * Computational quantification of tumor-infiltrating immune cells
 * Exercise 1: SVR deconvolution of PBMC data
- * *Mixture_Newman_PBMC.txt*
- * *Signature_CIBERSORT_LM22.txt*
+ * [*Mixture_Newman_PBMC.txt*](Input_data/Mixture_Newman_PBMC.txt)
+ * [*Signature_CIBERSORT_LM22.txt*](Input_data/Signature_CIBERSORT_LM22.txt)
 
 **11:00-11:30**
 *Coffee Break*
@@ -83,7 +83,7 @@ Solution: exercise 1:
   * *Decon_3_Assess_Performance.R*
 * Deconvolution Methods
 * Exercise 4: assess SVR performance on PBMC data
-  * *CellFractions_Newman_PBMC.txt*
+  * [*CellFractions_Newman_PBMC.txt*](Input_data/CellFractions_Newman_PBMC.txt)
 * Exercise 5: Run and assess DeconRNASeq on PBMC data
 * Questions: deconvolution
 * Brainstorming: deconvolution challenges
@@ -105,7 +105,7 @@ Solution: exercise 1:
 * Discussion about deconvolution challenges
 * Exercises 6 and 7 (at your choice)
   * *TCGA_CRC_TPM.txt*
-  * *TCGA_CRC_MSI_status.txt*
+  * [*TCGA_CRC_MSI_status.txt*](Input_data/TCGA_CRC_MSI_status.txt)
 * Wrap-up and questions
  
 
