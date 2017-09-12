@@ -22,8 +22,8 @@
 * [Solution: exercise 1 and questions](#)
   * [*Patient_1_HLA_typing.txt*](#)
   * [*Patient_1_HLA_typing_coverage_plot.pdf*](#)
-* Variant annotation
-* Exercise 2 and questions: variant annotation
+* [Variant annotation](#)
+* [Exercise 2 and questions: variant annotation](#)
   * [*Patient_1_mutations.vcf*](Input_data/Patient_1_mutations.vcf)
 
 **12:30-14:00**
