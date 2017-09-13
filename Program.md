@@ -92,10 +92,10 @@ Solution: exercise 1
 *Tea Break*
 
 **16:30-18:00**
-* [Solution: exercise 4](Material/Deconvolution_ex_4_sol.pdf)
+* Solution: exercise 4
   * [*Decon_4_Assess_Deconvolution_SVR_PBMC.R*](Material/Decon_4_Assess_Deconvolution_SVR_PBMC.R)
   * [*Decon_SVR_PBMC_cell_fractions.pdf*](Material/Decon_SVR_PBMC_cell_fractions.pdf)
-* [Solution: exercise 5](Material/Deconvolution_ex_5_sol.pdf)
+* Solution: exercise 5
   * [*Decon_5_Assess_Deconvolution_DeconRNASeq_PBMC.R*](Material/Decon_5_Assess_Deconvolution_DeconRNASeq_PBMC.R)
   * [*Decon_DeconRNASeq_PBMC_cell_fractions.txt*](Material/Decon_DeconRNASeq_PBMC_cell_fractions.txt)
   * [*Decon_DeconRNASeq_PBMC_cell_fractions.pdf*](Material/Decon_DeconRNASeq_PBMC_cell_fractions.pdf)
