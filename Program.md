@@ -35,7 +35,7 @@
   * [*Patient_1_VEP_37_proteins.txt*](Material/Patient_1_VEP_37_proteins.txt)
 * [Peptide-MHC binding prediction](Material/1_5_Peptide-MHC_binding_prediction.pdf)
 * [Exercise 3 and questions: peptide-MHC binding prediction](Material/Neoantigen_ex_3.pdf)
-  * [*Patient_1_HLA-A.txt*](Material/Patient_1_HLA-A.txt)
+  * [*Patient_1_HLA-A.txt*](Input_data/Patient_1_HLA-A.txt)
 
 **16:00-16:30**
 *Tea Break*
