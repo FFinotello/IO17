@@ -130,14 +130,14 @@ Solution: exercise 1
 * Solution: Excercise 1
   * [*Ex1_Omnipath_solution.R*](Material/Ex1_Omnipath_solution.R)
   * [*Ex1_Omnipath_solution.pdf*](Material/Ex1_Omnipath_solution.pdf)
-* Modeling framework and Boolean logic models
+* [Modeling framework and introduction to Boolean models](Material/3_2_Modeling_framework_and_introduction_to_Boolean_models.pdf)
 * Excercise 2: Modeling signaling pathways with Cytocopter (Cytoscape plugin)
 
 **12:30-14:00**
 *Lunch Break*
 
 **14:00-16:00**
-* Other logic formalisms
+* Model optimisation and introduction to other logic formalisms
 * Excercise 3: Comparing different logic formalisms with CellNOptR
   * [*Ex3_tutorialCellNOptR.R*](Material/Ex3_tutorialCellNOptR.R)
   * [*ToyModelPB.sif*](Input_data/ToyModelPB.sif)
