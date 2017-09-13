@@ -8,6 +8,7 @@
 
 ## September 20<sup>th</sup>, 2017
 **09:30-11:30** 
+* Introduction of participants
 * [Bioinformatics for Cancer Immunology and Immuno-Oncology](Material/1_1_Intro.pdf)
 * [Prediction of tumor neoantigens](Material/1_2_Prediction_of_tumor_neoantigens.pdf)
 * [HLA typing](Material/1_3_HLA_typing.pdf)
