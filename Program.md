@@ -35,6 +35,7 @@
   * [*Patient_1_VEP_37_proteins.txt*](Material/Patient_1_VEP_37_proteins.txt)
 * [Peptide-MHC binding prediction](Material/1_5_Peptide-MHC_binding_prediction.pdf)
 * [Exercise 3 and questions: peptide-MHC binding prediction](Material/Neoantigen_ex_3.pdf)
+  * [*Patient_1_HLA-A.txt*](Material/Patient_1_HLA-A.txt)
 
 **16:00-16:30**
 *Tea Break*
@@ -103,7 +104,7 @@ Solution: exercise 1
   * [*Decon_DeconRNASeq_PBMC_noBnaive_cell_fractions.pdf*](Material/Decon_DeconRNASeq_PBMC_noBnaive_cell_fractions.pdf)
 * [Solution: deconvolution questions](Material/Deconvolution_questions_sol.pdf)
 * [Discussion about deconvolution challenges](Material/Discussion_deconvolution_challenges.pdf)
-* [Exercises 6 and 7 (at your choice)](Material/Deconvolution_ex_6-7.pdf)
+* [Exercise 6](Material/Deconvolution_ex_6.pdf)
   * [*TCGA_CRC_TPM.zip*](Input_data/TCGA_CRC_TPM.zip)
   * [*TCGA_CRC_MSI_status.txt*](Input_data/TCGA_CRC_MSI_status.txt)
 * Wrap-up and questions
