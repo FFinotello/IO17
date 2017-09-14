@@ -7,7 +7,7 @@
 
 
 ## September 20<sup>th</sup>, 2017
-**09:30-11:30** 
+**09:30-11:00** 
 * Introduction of participants
 * [Bioinformatics for Cancer Immunology and Immuno-Oncology](Material/1_1_Intro.pdf)
 * [Prediction of tumor neoantigens](Material/1_2_Prediction_of_tumor_neoantigens.pdf)
@@ -51,7 +51,7 @@
 
 ## September 21<sup>st</sup>, 2017
 
-**09:30-11:30** 
+**09:30-11:00** 
 * Morning wrap-up
 * [Solution: exercise 4 and questions](Material/Neoantigen_ex_4_sol.pdf)
   * [*Patient_1_candidate_neoantigens.txt*](Material/Patient_1_candidate_neoantigens.txt)
@@ -112,7 +112,7 @@ Solution: exercise 1
 
 ## September 22<sup>nd</sup>, 2017
 
-**09:30-11:30** 
+**09:30-11:00** 
 * Morning wrap-up
 * [Solution: exercise 6](Material/Deconvolution_ex_6_sol.pdf)
   * [*Decon_6_Deconvolution_DeconRNASeq_CRC.R*](Material/Decon_6_Deconvolution_DeconRNASeq_CRC.R)
