@@ -75,8 +75,8 @@
 
 **14:00-16:00**
 * Solution: exercise 1
- * [*Decon_CIBERSORT_PBMC_output.txt*](Material/Decon_CIBERSORT_PBMC_output.txt)
- * [*Decon_CIBERSORT_PBMC_output_cell_fractions.txt*](Material/Decon_CIBERSORT_PBMC_output_cell_fractions.txt)
+  * [*Decon_CIBERSORT_PBMC_output.txt*](Material/Decon_CIBERSORT_PBMC_output.txt)
+  * [*Decon_CIBERSORT_PBMC_output_cell_fractions.txt*](Material/Decon_CIBERSORT_PBMC_output_cell_fractions.txt)
 * Solution: exercise 2
   * [*Decon_2_RMSE.R*](Material/Decon_2_RMSE.R)
 * Solution: exercise 3
