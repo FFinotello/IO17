@@ -58,7 +58,7 @@
 * [Discussion about neoantigen prioritization](Material/Discussion_neoantigen_prioritization.pdf)
 * [Tumor-infiltrating immune cells](Material/2_1_Tumor-infiltrating_immune_cells.pdf)
 * [Computational quantification of tumor-infiltrating immune cells](Material/2_2_Computational_quantification_of_tumor_infiltrating_immune_cells.pdf)
-* [Exercise 1: SVR deconvolution of PBMC data](Material/Deconvolution_ex_1.pdf)
+* [Exercise 1: deconvolution of PBMC data with CIBERSORT](Material/Deconvolution_ex_1.pdf)
   * [*Mixture_Newman_PBMC.txt*](Input_data/Mixture_Newman_PBMC.txt)
   * [*Signature_CIBERSORT_LM22.txt*](Input_data/Signature_CIBERSORT_LM22.txt)
 
@@ -67,7 +67,6 @@
 
 **11:30-12:30**
 * [Assessing deconvolution performance](Material/2_3_Assessing_deconvolution_performance.pdf)
-* [Exercise 1: SVR deconvolution of PBMC data (continued…)](Material/Deconvolution_ex_1.pdf)
 * [Exercise 2: RMSE](Material/Deconvolution_ex_2.pdf)
 * [Exercise 3: deconvolution performance (optional)](Material/Deconvolution_ex_3.pdf)
 
@@ -76,18 +75,14 @@
 
 **14:00-16:00**
 Solution: exercise 1
- * [*Decon_1_Deconvolution_SVM_PBMC.R*](Material/Decon_1_Deconvolution_SVM_PBMC.R)
- * [*Decon_SVR_PBMC_cell_fractions.txt*](Material/Decon_SVR_PBMC_cell_fractions.txt)
+ * [*Decon_CIBERSORT_PBMC_output.txt*](Material/Decon_CIBERSORT_PBMC_output.txt)
+ * [*Decon_CIBERSORT_PBMC_output_cell_fractions.txt*](Material/Decon_CIBERSORT_PBMC_output_cell_fractions.txt)
 * Solution: exercise 2
   * [*Decon_2_RMSE.R*](Material/Decon_2_RMSE.R)
 * Solution: exercise 3
   * [*Decon_3_Assess_Performance.R*](Material/Decon_3_Assess_Performance.R)
-* [Deconvolution Methods](Material/2_4_Deconvolution_methods.pdf)
-* [Exercise 4: assess SVR performance on PBMC data](Material/Deconvolution_ex_4.pdf)
+* [Exercise 4: assess CIBERSORT performance on PBMC data](Material/Deconvolution_ex_4.pdf)
   * [*CellFractions_Newman_PBMC.txt*](Input_data/CellFractions_Newman_PBMC.txt)
-* [Exercise 5: Run and assess DeconRNASeq on PBMC data](Material/Deconvolution_ex_5.pdf)
-* [Questions: deconvolution](Material/Deconvolution_questions.pdf)
-* Brainstorming: deconvolution challenges
 
 **16:00-16:30**
 *Tea Break*
@@ -96,6 +91,17 @@ Solution: exercise 1
 * Solution: exercise 4
   * [*Decon_4_Assess_Deconvolution_SVR_PBMC.R*](Material/Decon_4_Assess_Deconvolution_SVR_PBMC.R)
   * [*Decon_SVR_PBMC_cell_fractions.pdf*](Material/Decon_SVR_PBMC_cell_fractions.pdf)
+  * [Deconvolution Methods](Material/2_4_Deconvolution_methods.pdf)
+* [Exercise 5: Run and assess DeconRNASeq on PBMC data](Material/Deconvolution_ex_5.pdf)
+* [Questions: deconvolution](Material/Deconvolution_questions.pdf)
+* Brainstorming: deconvolution challenges
+* Wrap-up and questions
+ 
+
+## September 22<sup>nd</sup>, 2017
+
+**09:30-11:00** 
+* Morning wrap-up
 * Solution: exercise 5
   * [*Decon_5_Assess_Deconvolution_DeconRNASeq_PBMC.R*](Material/Decon_5_Assess_Deconvolution_DeconRNASeq_PBMC.R)
   * [*Decon_DeconRNASeq_PBMC_cell_fractions.txt*](Material/Decon_DeconRNASeq_PBMC_cell_fractions.txt)
@@ -104,20 +110,6 @@ Solution: exercise 1
   * [*Decon_DeconRNASeq_PBMC_noBnaive_cell_fractions.pdf*](Material/Decon_DeconRNASeq_PBMC_noBnaive_cell_fractions.pdf)
 * [Solution: deconvolution questions](Material/Deconvolution_questions_sol.pdf)
 * [Discussion about deconvolution challenges](Material/Discussion_deconvolution_challenges.pdf)
-* [Exercise 6](Material/Deconvolution_ex_6.pdf)
-  * [*TCGA_CRC_TPM.zip*](Input_data/TCGA_CRC_TPM.zip)
-  * [*TCGA_CRC_MSI_status.txt*](Input_data/TCGA_CRC_MSI_status.txt)
-* Wrap-up and questions
- 
-
-## September 22<sup>nd</sup>, 2017
-
-**09:30-11:00** 
-* Morning wrap-up
-* [Solution: exercise 6](Material/Deconvolution_ex_6_sol.pdf)
-  * [*Decon_6_Deconvolution_DeconRNASeq_CRC.R*](Material/Decon_6_Deconvolution_DeconRNASeq_CRC.R)
-  * [*Decon_DeconRNASeq_CRC_cell_fractions.txt*](Material/Decon_DeconRNASeq_CRC_cell_fractions.txt)
-  * [*Decon_DeconRNASeq_CRC_CD8_fractions_vs_MSI_status.pdf*](Material/Decon_DeconRNASeq_CRC_CD8_fractions_vs_MSI_status.pdf)
 * Signaling pathways in cancer and immune cells
 * Exercise 1: pathways analysis with Omnipath
   * [*Ex1_Omnipath.R*](Material/Ex1_Omnipath.R)
