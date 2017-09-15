@@ -82,16 +82,16 @@
 * Solution: exercise 3
   * [*Decon_3_Assess_Performance.R*](Material/Decon_3_Assess_Performance.R)
 * [Exercise 4: assess CIBERSORT performance on PBMC data](Material/Deconvolution_ex_4.pdf)
-  * [*CellFractions_Newman_PBMC.txt*](Input_data/CellFractions_Newman_PBMC.txt)
+  * [*FlowCytometry_Newman_PBMC.txt*](Input_data/FlowCytometry_Newman_PBMC.txt)
 
 **16:00-16:30**
 *Tea Break*
 
 **16:30-18:00**
 * Solution: exercise 4
-  * [*Decon_4_Assess_Deconvolution_SVR_PBMC.R*](Material/Decon_4_Assess_Deconvolution_SVR_PBMC.R)
-  * [*Decon_SVR_PBMC_cell_fractions.pdf*](Material/Decon_SVR_PBMC_cell_fractions.pdf)
-  * [Deconvolution Methods](Material/2_4_Deconvolution_methods.pdf)
+  * [*Decon_4_Assess_Deconvolution_CIBERSORT_PBMC.R*](Material/Decon_4_Assess_Deconvolution_CIBERSORT_PBMC.R)
+  * [*Decon_CIBERSORT_PBMC_performance.pdf*](Material/Decon_CIBERSORT_PBMC_performance.pdf)
+* [Deconvolution Methods](Material/2_4_Deconvolution_methods.pdf)
 * [Exercise 5: Run and assess DeconRNASeq on PBMC data](Material/Deconvolution_ex_5.pdf)
 * [Questions: deconvolution](Material/Deconvolution_questions.pdf)
 * Brainstorming: deconvolution challenges
