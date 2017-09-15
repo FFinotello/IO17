@@ -74,7 +74,7 @@
 *Lunch Break*
 
 **14:00-16:00**
-Solution: exercise 1
+* Solution: exercise 1
  * [*Decon_CIBERSORT_PBMC_output.txt*](Material/Decon_CIBERSORT_PBMC_output.txt)
  * [*Decon_CIBERSORT_PBMC_output_cell_fractions.txt*](Material/Decon_CIBERSORT_PBMC_output_cell_fractions.txt)
 * Solution: exercise 2
