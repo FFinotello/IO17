@@ -129,7 +129,7 @@
 *Lunch Break*
 
 **14:00-16:00**
-* Model optimisation and introduction to other logic formalisms
+* [Introduction to different logic formalisms in CellNOpt](Material/3_3_Introduction_to_different_logic_formalisms_in_CellNOpt.pdf)
 * Excercise 3: Comparing different logic formalisms with CellNOptR
   * [*Ex3_tutorialCellNOptR.R*](Material/Ex3_tutorialCellNOptR.R)
   * [*ToyModelPB.sif*](Input_data/ToyModelPB.sif)
