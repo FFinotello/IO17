@@ -111,9 +111,9 @@
 * [Solution: deconvolution questions](Material/Deconvolution_questions_sol.pdf)
 * [Discussion about deconvolution challenges](Material/Discussion_deconvolution_challenges.pdf)
 * Signaling pathways in cancer and immune cells
-* Exercise 1: pathways analysis with Omnipath
+* [Exercise 1: pathways analysis with Omnipath](Material/Ex1_Omnipath.pdf)
   * [*Ex1_Omnipath.R*](Material/Ex1_Omnipath.R)
-  * [*Ex1_Omnipath.pdf*](Material/Ex1_Omnipath.pdf)
+
 
 **11:00-11:30**
 *Coffee Break*
@@ -134,7 +134,7 @@
   * [*Ex3_tutorialCellNOptR.R*](Material/Ex3_tutorialCellNOptR.R)
   * [*ToyModelPB.sif*](Input_data/ToyModelPB.sif)
   * [*ToyModelPB.csv*](Input_data/ToyModelPB.csv)
-* Excercise 4: Modeling context specific pathways with CNORode
+* [Exercise 4: Modeling cell-type specific pathways with CNORode](Material/Ex4_modeling_leukemia_with_CNORode.pdf)
   * [*Ex4_modeling_leukemia_with_CNORode.R*](Input_data/Ex4_modeling_leukemia_with_CNORode.R)
   * [*optimisation_parameters.RData*](Input_data/optimisation_parameters.RData)
   * [*PKN_Lymphocyte.sif*](Input_data/PKN_Lymphocyte.sif)
