@@ -135,11 +135,12 @@
   * [*ToyModelPB.sif*](Input_data/ToyModelPB.sif)
   * [*ToyModelPB.csv*](Input_data/ToyModelPB.csv)
 * Excercise 4: Modeling context specific pathways with CNORode
-  * *Ex4_tutorialCNORode.R*
-  * *PKN.sif*
-  * *data_group1.csv*
-  * *data_group2.csv*
- 
+  * [*Ex4_modeling_leukemia_with_CNORode.R*](Input_data/Ex4_modeling_leukemia_with_CNORode.R)
+  * [*optimisation_parameters.RData*](Input_data/optimisation_parameters.RData)
+  * [*PKN_Lymphocyte.sif*](Input_data/PKN_Lymphocyte.sif)
+  * [*MIDAS_CTL.csv*](Input_data/MIDAS_CTL.csv)
+  * [*MIDAS_T_LGL.csv*](Input_data/MIDAS_T_LGL.csv)
+  * [*MIDAS_predictions.csv*](Input_data/MIDAS_predictions.csv)
 
 **16:00-16:30**
 *Tea Break*
