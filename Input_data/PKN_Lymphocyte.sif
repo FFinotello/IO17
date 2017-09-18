@@ -1,0 +1,12 @@
+IL15	1	IL15R
+IL15R	1	Caspase
+Caspase	1	Apoptosis
+IL15R	-1	Fas
+Fas	1	DISC
+DISC	1	Caspase
+PDGF	1	PDGFR
+PDGFR	1	PI3K
+PI3K	-1	Fas
+PI3K	1	SPHK
+SPHK	1	sFas
+sFas	-1	Fas
