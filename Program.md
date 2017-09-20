@@ -43,9 +43,9 @@
 **16:30-18:00**
 * [Solution: exercise 3 and questions](Material/Neoantigen_ex_3_sol.pdf)
   * [*Patient_1_NetMHCpan_binders.txt*](Material/Patient_1_NetMHCpan_binders.txt)
-* Wrap-up and questions
 * [Exercise 4: neoantigen prioritization](Material/Neoantigen_ex_4.pdf)
   * [*Patient_1_normalized_expression.txt*](Input_data/Patient_1_normalized_expression.txt)
+* Wrap-up and questions
 * Brainstorming: strategies for neoantigen prioritization
 
 
