@@ -110,10 +110,9 @@
   * [*Decon_DeconRNASeq_PBMC_noBnaive_performance.pdf*](Material/Decon_DeconRNASeq_PBMC_noBnaive_performance.pdf)
 * [Solution: deconvolution questions](Material/Deconvolution_questions_sol.pdf)
 * [Discussion about deconvolution challenges](Material/Discussion_deconvolution_challenges.pdf)
-* Signaling pathways in cancer and immune cells
+* [Signaling pathways in cancer and immune cells](Material/3_1_Signaling_pathways_in_cancer_and_immune_cells.pdf)
 * [Exercise 1: pathways analysis with Omnipath](Material/Ex1_Omnipath.pdf)
   * [*Ex1_Omnipath.R*](Material/Ex1_Omnipath.R)
-
 
 **11:00-11:30**
 *Coffee Break*
