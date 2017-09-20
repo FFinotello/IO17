@@ -1,0 +1,30 @@
+## ENSEMBL VARIANT EFFECT PREDICTOR v84
+## Output produced at 2017-09-13 08:03:33
+## Using cache in /home/input1//homo_sapiens/84_GRCh38
+## Using API version 84, DB version ?
+## polyphen version 2.2.2
+## sift version sift5.2.2
+## COSMIC version 75
+## ESP version 20141103
+## gencode version GENCODE 24
+## HGMD-PUBLIC version 20154
+## genebuild version 2014-07
+## regbuild version 13.0
+## assembly version GRCh38.p5
+## dbSNP version 146
+## ClinVar version 201601
+## Extra column keys:
+## IMPACT : Subjective impact classification of consequence type
+## DISTANCE : Shortest distance from variant to transcript
+## STRAND : Strand of the feature (1/-1)
+## FLAGS : Transcript quality flags
+## SYMBOL : Gene symbol (e.g. HGNC)
+## SYMBOL_SOURCE : Source of gene symbol
+## HGNC_ID : Stable identifer of HGNC gene symbol
+## ENSP : Protein identifer
+## SWISSPROT : UniProtKB/Swiss-Prot identifier
+## TREMBL : UniProtKB/TrEMBL identifier
+## UNIPARC : UniParc identifier
+#Uploaded_variation	Location	Allele	Gene	Feature	Feature_type	Consequence	cDNA_position	CDS_position	Protein_position	Amino_acids	Codons	Existing_variation	Extra
+Patient_1	5:132198248	T	ENSG00000072682	ENST00000401867	Transcript	synonymous_variant	1898	1329	443	K	aaG/aaA	-	IMPACT=LOW;STRAND=-1;SYMBOL=P4HA2;SYMBOL_SOURCE=HGNC;HGNC_ID=HGNC:8547;ENSP=ENSP00000384999;SWISSPROT=O15460;UNIPARC=UPI000013102D
+Patient_1	11:1017069	A	ENSG00000184956	ENST00000421673	Transcript	missense_variant	5783	5732	1911	T/M	aCg/aTg	-	IMPACT=MODERATE;STRAND=-1;SYMBOL=MUC6;SYMBOL_SOURCE=HGNC;HGNC_ID=HGNC:7517;ENSP=ENSP00000406861;SWISSPROT=Q6W4X9;UNIPARC=UPI0000251DBE
