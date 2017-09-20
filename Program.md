@@ -140,6 +140,7 @@
   * [*MIDAS_CTL.csv*](Input_data/MIDAS_CTL.csv)
   * [*MIDAS_T_LGL.csv*](Input_data/MIDAS_T_LGL.csv)
   * [*MIDAS_predictions.csv*](Input_data/MIDAS_predictions.csv)
+ * [Solution: exercise 4](Material/Ex4_modeling_leukemia_with_CNORode_solution.R)
 
 **16:00-16:30**
 *Tea Break*
