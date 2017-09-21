@@ -106,7 +106,7 @@
 * Solution: exercise 5
   * [*Decon_5_Assess_Deconvolution_DeconRNASeq_PBMC.R*](Material/Decon_5_Assess_Deconvolution_DeconRNASeq_PBMC.R)
   * [*Decon_DeconRNASeq_PBMC_cell_fractions.txt*](Material/Decon_DeconRNASeq_PBMC_cell_fractions.txt)
-  * [*Decon_DeconRNASeq_PBMC_performance.pdf*](Material/Decon_DeconRNASeq_performance.pdf)
+  * [*Decon_DeconRNASeq_PBMC_performance.pdf*](Material/Decon_DeconRNASeq_PBMC_performance.pdf)
   * [*Decon_DeconRNASeq_PBMC_noBnaive_cell_fractions.txt*](Material/Decon_DeconRNASeq_PBMC_noBnaive_cell_fractions.txt)
   * [*Decon_DeconRNASeq_PBMC_noBnaive_performance.pdf*](Material/Decon_DeconRNASeq_PBMC_noBnaive_performance.pdf)
 * [Solution: deconvolution questions](Material/Deconvolution_questions_sol.pdf)
