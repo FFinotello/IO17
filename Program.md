@@ -55,7 +55,7 @@
 * Morning wrap-up
 * [Solution: exercise 4 and questions](Material/Neoantigen_ex_4_sol.pdf)
   * [*Patient_1_candidate_neoantigens.txt*](Material/Patient_1_candidate_neoantigens.txt)
-* [Discussion about neoantigen prioritization](Material/Discussion_neoantigen_prioritization.pdf)
+* [Discussion about neoantigen prioritization](Material/1_6_Neoantigen_priotization.pdf)
 * [Tumor-infiltrating immune cells](Material/2_1_Tumor-infiltrating_immune_cells.pdf)
 * [Computational quantification of tumor-infiltrating immune cells](Material/2_2_Computational_quantification_of_tumor_infiltrating_immune_cells.pdf)
 * [Exercise 1: deconvolution of PBMC data with CIBERSORT](Material/Deconvolution_ex_1.pdf)
@@ -110,7 +110,7 @@
   * [*Decon_DeconRNASeq_PBMC_noBnaive_cell_fractions.txt*](Material/Decon_DeconRNASeq_PBMC_noBnaive_cell_fractions.txt)
   * [*Decon_DeconRNASeq_PBMC_noBnaive_performance.pdf*](Material/Decon_DeconRNASeq_PBMC_noBnaive_performance.pdf)
 * [Solution: deconvolution questions](Material/Deconvolution_questions_sol.pdf)
-* [Discussion about deconvolution challenges](Material/Discussion_deconvolution_challenges.pdf)
+* [Discussion about deconvolution challenges](Material/2_5_Deconvolution_challenges.pdf)
 * [Signaling pathways in cancer and immune cells](Material/3_1_Signaling_pathways_in_cancer_and_immune_cells.pdf)
 * [Exercise 1: pathways analysis with Omnipath](Material/Ex1_Omnipath.pdf)
   * [*Ex1_Omnipath.R*](Material/Ex1_Omnipath.R)
