@@ -94,8 +94,9 @@
 * [Deconvolution Methods](Material/2_4_Deconvolution_methods.pdf)
 * [Exercise 5: Run and assess DeconRNASeq on PBMC data](Material/Deconvolution_ex_5.pdf)
 * [Questions: deconvolution](Material/Deconvolution_questions.pdf)
-* Brainstorming: deconvolution challenges
 * Wrap-up and questions
+* Brainstorming: deconvolution challenges
+
  
 
 ## September 22<sup>nd</sup>, 2017
