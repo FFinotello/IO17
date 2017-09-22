@@ -123,7 +123,7 @@
   * [*Ex1_Omnipath_solution.R*](Material/Ex1_Omnipath_solution.R)
   * [*Ex1_Omnipath_solution.pdf*](Material/Ex1_Omnipath_solution.pdf)
 * [Modeling framework and introduction to Boolean models](Material/3_2_Modeling_framework_and_introduction_to_Boolean_models.pdf)
-* [Excercise 2: Modeling signaling pathways with Cytocopter (Cytoscape plugin)](Material/Ex2_CytocoptR)
+* [Excercise 2: Modeling signaling pathways with Cytocopter (Cytoscape plugin)](Material/Ex2_CytocoptR.R)
   * [*ToyModelPB.sif*](Input_data/ToyModelPB.sif)
   * [*ToyModelPB.csv*](Input_data/ToyModelPB.csv)
 
