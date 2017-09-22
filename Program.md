@@ -20,7 +20,7 @@
 
 **11:30-12:30**
 * [Solution: exercise 1 and questions](Material/Neoantigen_ex_1_sol.pdf)
-  * [*Patient_1_HLA_typing.txt*](Material/Patient_1_HLA_typing.txt)
+  * [*Patient_1_HLA.txt*](Material/Patient_1_HLA.txt)
   * [*Patient_1_HLA_typing_coverage_plot.pdf*](Material/Patient_1_HLA_typing_coverage_plot.pdf)
 * [Variant annotation](Material/1_4_Variant_annotation.pdf)
 * [Exercise 2 and questions: variant annotation](Material/Neoantigen_ex_2.pdf)
