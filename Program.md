@@ -137,7 +137,7 @@
   * [*ToyModelPB.sif*](Input_data/ToyModelPB.sif)
   * [*ToyModelPB.csv*](Input_data/ToyModelPB.csv)
 * [Exercise 4: Modeling cell-type specific pathways with CNORode](Material/Ex4_modeling_leukemia_with_CNORode.pdf)
-  * [*Ex4_modeling_leukemia_with_CNORode.R*](Input_data/Ex4_modeling_leukemia_with_CNORode.R)
+  * [*Ex4_modeling_leukemia_with_CNORode.R*](Material/Ex4_modeling_leukemia_with_CNORode.R)
   * [*optimisation_parameters.RData*](Input_data/optimisation_parameters.RData)
   * [*PKN_Lymphocyte.sif*](Input_data/PKN_Lymphocyte.sif)
   * [*MIDAS_CTL.csv*](Input_data/MIDAS_CTL.csv)
