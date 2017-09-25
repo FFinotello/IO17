@@ -134,7 +134,6 @@
 * [Introduction to different logic formalisms in CellNOpt](Material/3_3_Introduction_to_different_logic_formalisms_in_CellNOpt.pdf)
 * Excercise 3: Comparing different logic formalisms with CellNOptR
   * [*Ex3_tutorialCellNOptR.R*](Material/Ex3_tutorialCellNOptR.R)
-  * [*Ex3_tutorialCellNOptR_commented.R*](Material/Ex3_tutorialCellNOptR_commented.R)
   * [*ToyModelPB.sif*](Input_data/ToyModelPB.sif)
   * [*ToyModelPB.csv*](Input_data/ToyModelPB.csv)
 * [Exercise 4: Modeling cell-type specific pathways with CNORode](Material/Ex4_modeling_leukemia_with_CNORode.pdf)
