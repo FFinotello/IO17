@@ -2,7 +2,7 @@
 
 Instituto Gulbenkian de Ciência, Oeiras, Portugal - 19-22 September, 2017
 
-ftp://gtpb.igc.gulbenkian.pt/bicourses/2017/IO17/index.html
+http://gtpb.igc.gulbenkian.pt/bicourses/2017/IO17/index.html
 
 ## Course description
 
